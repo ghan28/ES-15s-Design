@@ -22,7 +22,7 @@
 							<ClickTracking><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_VideoClickTracking ]]></ClickTracking>
 						</VideoClicks>
 						<MediaFiles>
-							<MediaFile bitrate="766" delivery="progressive" height="640" type="video/mp4" width="360"><![CDATA[ https://cdn-source.spotxchange.com/media/videos/orig/8/3/834e793f72722c258f463c8d506f0ece.mp4 ]]></MediaFile>
+							<MediaFile bitrate="766" delivery="progressive" height="640" type="video/mp4" width="360"><![CDATA[ https://cdn-source.spotxchange.com/media/videos/orig/6/a/6a8195edc81c9186957defd87ef858cb.mp4 ]]></MediaFile>
 						</MediaFiles>
 					</Linear>
 				</Creative>
